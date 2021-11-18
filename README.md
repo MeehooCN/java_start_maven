@@ -1,5 +1,5 @@
 ##第一部分--> Maven配置说明
-idea默认自带了Maven插件，默认配置如下(使用默认的配置是可以的)：
+idea默认自带了Maven插件，默认配置如下(当然使用默认的配置是可以的)：
 
 ![Alt text](./README_IMG/maven1.png)
 
